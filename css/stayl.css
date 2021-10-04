@@ -1,0 +1,53 @@
+body{
+  max-width: 1130px;
+  margin-left: auto;
+  margin-top: auto;
+  background-color: #16A185;
+}
+ #box{
+  display: flex;
+  margin-top: 100px;
+  margin-right:550px;
+  width: 840px;
+  height: 750px;
+  background-color: white;
+  box-shadow: 0 0 20px 20px black;
+}
+.list{
+ list-style-type: none;
+}
+.item{
+  display: flex;
+  justify-content: center;
+}
+.kontakt{
+  display: flex;
+  margin-top: 8px;
+  margin-right: 700px;
+}
+.bicycle{
+  margin-top: 40px;
+}
+.kichik{
+  display: flex;
+  color:darkgray;
+  margin-bottom:60px;
+}
+.text2{
+  display: flex;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.qora{
+  margin-left: 450px;
+}
+.qora1{
+  margin-left: 590px;
+}
+.qora2{
+  margin-left: 445px;
+}
+.simple{
+  margin-right: 585px;
+  margin-bottom: 25px;
+}
